@@ -1,2 +1,3 @@
 Welcome to GIT
 checking the add and commit onne
+change to fix bug1
