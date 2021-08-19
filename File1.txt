@@ -8,3 +8,5 @@ Bug2 adding for conflicts from bug2 to master
 change to fix bug1
 changing for bug2 , with conflict
 
+3- rebase change in CR1 branch
+
