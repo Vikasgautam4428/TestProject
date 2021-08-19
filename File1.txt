@@ -1,3 +1,4 @@
 Welcome to GIT
 checking the add and commit onne
 change to fix bug1
+changing for bug2 , with conflict
