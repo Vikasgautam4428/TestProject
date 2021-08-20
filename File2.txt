@@ -1,2 +1,6 @@
 Rebase : somechanges in master branch by osmeone else
+<<<<<<< HEAD
 Fetch : for fetch reponse with conflict
+=======
+2- for fetch request and rebase in local master
+>>>>>>> 4c95b33 (for Fetch request and rebase in local master)
