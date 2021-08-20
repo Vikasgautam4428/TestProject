@@ -10,3 +10,6 @@ changing for bug2 , with conflict
 
 3- rebase change in CR1 branch
 
+4- stash changes 
+
+5- Remote repo changes for push cmd
