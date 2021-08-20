@@ -13,3 +13,4 @@ changing for bug2 , with conflict
 4- stash changes 
 
 5- Remote repo changes for push cmd
+6- Chnages in directly to remote master to check pull opration
